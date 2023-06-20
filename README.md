@@ -8,6 +8,9 @@ Skin Cancer Detection is a predictive model developed using Convolutional Neural
 
 Our predictive model is based on Convolutional Neural Networks (CNNs), which are particularly well-suited for image classification tasks. CNNs have shown excellent performance in various computer vision applications. By leveraging CNNs, we can effectively learn and extract features from skin lesion images, leading to accurate predictions.
 
+### Dataset
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T 
 ### Informative Features
 
 In the context of our predictive model, the most informative features are the visual patterns and characteristics extracted from the skin lesion images. The CNN model automatically learns and identifies relevant features that contribute to accurate classification. During the training process, the model learns the exact features and patterns that are informative for the task.
